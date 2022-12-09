@@ -1,0 +1,15 @@
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\bin\Debug\net6.0\FirstApp.exe
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\bin\Debug\net6.0\FirstApp.deps.json
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\bin\Debug\net6.0\FirstApp.dll
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\bin\Debug\net6.0\FirstApp.pdb
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\FirstApp.dll
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\refint\FirstApp.dll
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\FirstApp.pdb
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+C:\Users\zertyui\MyLocalFiles\youssfi-s5\dotnet\firstApp\obj\Debug\net6.0\ref\FirstApp.dll
