@@ -27,5 +27,5 @@ Application DotNet Core de type console qui permet gérer des comptes (id, curen
 
 ## Résultat du Test
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63150702/206691177-e6d8c9d0-5043-47bd-961f-8bc7be104daa.png"/> 
+<img src="https://user-images.githubusercontent.com/63150702/206717326-fcfe5f20-4c8d-4bd7-bf23-be4545dfabf2.png"/> 
 </p>
