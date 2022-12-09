@@ -12,13 +12,20 @@ Application DotNet Core de type console qui permet gérer des comptes (id, curen
 &ensp;&ensp;&ensp;&ensp;. GetDebitedAccounts<br>
 &ensp;&ensp;&ensp;&ensp;. GetBalanceAVG()
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63150702/206688927-4c8bbc1a-7aac-41d5-a4a6-a548b35ff21d.png"/> 
+<img src="https://user-images.githubusercontent.com/63150702/206690247-4189794a-069f-4d84-a240-66c7773dfe50.png"/> 
 </p>
+
 ## Implémentation de l'interface en utilisant une collection de type Dictionary
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63150702/206688927-4c8bbc1a-7aac-41d5-a4a6-a548b35ff21d.png"/> 
+<img src="https://user-images.githubusercontent.com/63150702/206690764-9adea12a-bdcc-4238-b385-60f31164e4d7.png"/> 
 </p>
+
 ## Test de l'application
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63150702/206688927-4c8bbc1a-7aac-41d5-a4a6-a548b35ff21d.png"/> 
+<img src="https://user-images.githubusercontent.com/63150702/206690859-a124e9a7-a745-485e-b66e-36d8c1ffa06a.png"/> 
+</p>
+
+## Résultat du Test
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63150702/206691177-e6d8c9d0-5043-47bd-961f-8bc7be104daa.png"/> 
 </p>
